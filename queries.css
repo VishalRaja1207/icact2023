@@ -147,7 +147,7 @@
 		display: block;		/* to leave a line gap between navigation links */
 		border: 0;			/* mobile phones dont have a border design because we cannot hover links on mobile phones */
 		padding: 10px 0;
-		font-size: 100%;
+		font-size: 58%;
 	}
 
 	.sticky .main-nav
