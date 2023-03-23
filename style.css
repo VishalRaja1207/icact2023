@@ -244,7 +244,7 @@ header {
   text-decoration: none;
   color: #fff;
   text-transform: uppercase; /* converts text to uppercase */
-  font-size: 90%; /* 90 % of 20px(we defined in html)that is 18px */
+  font-size: 76%; /* 90 % of 20px(we defined in html)that is 18px */
   border-bottom: 2px solid transparent;
   transition: border-bottom 0.2s; /* the colour appears after a time period */
 }
