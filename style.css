@@ -956,6 +956,9 @@ td.text-right {
     /* left: 0%; */
     right: 20%;
   }
+  .gs b {
+    display: block;
+  }
 }
 
 .contact-con {
